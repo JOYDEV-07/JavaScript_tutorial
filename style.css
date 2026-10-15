@@ -4,7 +4,7 @@
     border: 0px;
 } */
 
-.heading{
+/* .heading{
     color: blue;
     text-decoration: line-through;
     background-color: yellow;
@@ -19,12 +19,22 @@ button{
     width: 50px;
     height: 50px;
     border-radius: 5px;
-}
-.box{
-    height: 100px;
+} */
+/* #box{
+    height: 500px;
     width: 100px;
     border: 1px solid black;
     margin: 5px;
     text-align: center;
-    background-color: aquamarine;
+    background-color: rgb(27, 27, 204);
+    color: white;
+} */
+
+.para{
+    color: red;
+}
+
+
+.newClass{
+    background-color: green;
 }
